@@ -1,0 +1,10 @@
+band-id: US_902_928
+uplink-channels:
+  - frequency: 903300000
+    min-data-rate: 0
+    max-data-rate: 3
+    radio: 1
+lora-standard-channel:
+  frequency: 903300000
+  data-rate: 4
+  radio: 0
